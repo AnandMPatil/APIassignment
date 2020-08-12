@@ -1,2 +1,0 @@
-# APIassignment
- Rest API Django
